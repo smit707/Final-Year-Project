@@ -1,0 +1,603 @@
+patterns,tag
+Hi, Greeting 
+Hi there, Greeting 
+Hey, Greeting 
+Hello, Greeting 
+Hello there, Greeting 
+Hya, Greeting 
+Hya there , Greeting 
+Tell me about yourself ?,About
+Tell me about your self ?,About
+What do you sell?,About
+What the chatbot about?,About
+What do you have?,About
+What is this about,About
+what do you provide,About
+My name is Sir/Ma'am, GreetingResponse 
+This is Sir/Ma'am, GreetingResponse 
+I am Sir/Ma'am, GreetingResponse 
+It is Sir/Ma'am, GreetingResponse 
+ Good Morning, Greetings_GM 
+ GM, Greetings_GM 
+ Good Afternoon, Greetings_GA 
+ GA , Greetings_GA 
+ GE, Greetings_GE 
+ Good Evening , Greetings_GE 
+What is your name?, Name 
+What could I call you?, Name 
+What can I call you?, Name 
+What do your friends call you?, Name 
+Who are you?, Name 
+Tell me your name?, Name 
+"Hello, chatbot my name is Sir/Ma'am what is you name", Name 
+What is your real name?, RealName 
+What is your real name please?, RealName 
+What's your real name?, RealName 
+Tell me your real name?, RealName 
+Your real name?, RealName 
+Your real name please?, RealName 
+What can I call you?, RealName 
+OK thank you, Thanks 
+OK thanks, Thanks 
+OK, Thanks 
+Thanks, Thanks 
+Thank you, Thanks 
+That's helpful, Thanks 
+Be quiet, Shutup 
+Shut up, Shutup 
+Stop talking, Shutup 
+Enough talking, Shutup 
+Please be quiet, Shutup 
+Quiet, Shutup 
+Shhh, Shutup 
+Bye, GoodBye 
+Adios, GoodBye 
+See you later, GoodBye 
+Goodbye, GoodBye 
+"Thanks, bye", CourtesyGoodBye 
+"Thanks for the help, goodbye", CourtesyGoodBye 
+"Thank you, bye", CourtesyGoodBye 
+"Thank you, goodbye", CourtesyGoodBye 
+Thanks goodbye, CourtesyGoodBye 
+Thanks good bye, CourtesyGoodBye 
+Shirts ,Shirts
+Plain Shirts,Shirts
+Printed Shirts,Shirts
+Half sleeves Shirts,Shirts
+Formal Shirts,Shirts
+Polo Shirts,Shirts
+Types of Shirts,Shirts_Types 
+What kind of shirts do you have,Shirts_Types 
+What are the different varieties of shirts you provide,Shirts_Types 
+Do you have half sleeves shirts?,Shirts_Types 
+Do you have full sleeves shirts?,Shirts_Types 
+Categories in Shirts,Shirt_Categories 
+Do you have Plain Shirts?,Shirt_Categories 
+Do you have Printed Shirts?,Shirt_Categories 
+Do you have Half-sleeves Shirts?,Shirt_Categories 
+Do you have Full-sleeves Shirts?,Shirt_Categories 
+Do you provide Plain Shirts?,Shirt_Categories 
+Do you provide Printed Shirts?,Shirt_Categories 
+Do you provide Half-sleeves Shirts?,Shirt_Categories 
+Do you provide Full-sleeves Shirts?,Shirt_Categories 
+Do you have Plain Shirts?,Shirt_Categories_Plain_Shirts 
+Do you provide Plain Shirts?,Shirt_Categories_Plain_Shirts 
+Plain Shirts,Shirt_Categories_Plain_Shirts 
+Simple Plain  Shirts,Shirt_Categories_Plain_Shirts 
+Do you have Printed Shirts?,Shirt_Categories_Printed_Shirts 
+Do you provide Printed Shirts?,Shirt_Categories_Printed_Shirts 
+Printed Shirts,Shirt_Categories_Printed_Shirts 
+Simple Printed  Shirts,Shirt_Categories_Printed_Shirts 
+Do you have Half Sleeves Shirts?,Shirt_Categories_Sleeves_Shirts 
+Do you have Full Sleeves Shirts?,Shirt_Categories_Sleeves_Shirts 
+Do you provide Half Sleeves Shirts?,Shirt_Categories_Sleeves_Shirts 
+Do you provide Full Sleeves Shirts?,Shirt_Categories_Sleeves_Shirts 
+Half Sleeves Shirts,Shirt_Categories_Sleeves_Shirts 
+Full Sleeves Shirts,Shirt_Categories_Sleeves_Shirts 
+Do you have Formal Shirts?,Shirt_Categories_Formal_Shirts 
+Do you provide Formal Shirts?,Shirt_Categories_Formal_Shirts 
+Formal Shirts,Shirt_Categories_Formal_Shirts 
+Simple Formal Shirts,Shirt_Categories_Formal_Shirts 
+Casual Formal Shirts,Shirt_Categories_Formal_Shirts 
+Party Formal Shirts,Shirt_Categories_Formal_Shirts 
+Party-Casual Formal Shirts,Shirt_Categories_Formal_Shirts 
+Do you have Polo Shirts?,Shirt_Categories_Polo_Shirts 
+Do you provide Polo Shirts?,Shirt_Categories_Polo_Shirts 
+Polo Shirts,Shirt_Categories_Polo_Shirts 
+Simple Polo  Shirts,Shirt_Categories_Polo_Shirts 
+Size for Shirts, Shirt_Sizes 
+What are the sizes of shirts do you have, Shirt_Sizes 
+What are the different shirt sizes you provide, Shirt_Sizes 
+What are the sizes for half selves shirts?, Shirt_Sizes 
+What are the sizes for half selves shirts?, Shirt_Sizes 
+What kind of colours of shirts do you provide,Shirt_Colours 
+What are the different varieties of colours of shirts do you provide?,Shirt_Colours 
+Do you provide multi-colour shirts?,Shirt_Colours 
+What is the price range for the shirts?,Shirt_Prices
+Do you have a very high price range of shirts?,Shirt_Prices
+Price range for Shirts,Shirt_Prices
+Prices for Shirts,Shirt_Prices
+What is the price of shirts?,Shirt_Prices
+What is the average price of shirts,Shirt_Prices
+What is the basic or normal price range for shirts,Shirt_Prices
+T-Shirts ,T-Shirts
+Plain T-Shirts,T-Shirts
+Printed T-Shirts,T-Shirts
+Half sleeves T-Shirts,T-Shirts
+Formal T-Shirts,T-Shirts
+Polo T-Shirts,T-Shirts
+What kind of t-shirts do you have,T-Shirt_Types
+What are the different varieties of t-shirts you provide,T-Shirt_Types
+Types in T-shirts,T-Shirt_Types
+What are the different Types in T-shirts,T-Shirt_Types
+What are the different categories in T-shirts? ,T-Shirt_Categories
+Which categories in t-shirts do you provide?,T-Shirt_Categories
+Categories in T-shirts,T-Shirt_Categories
+T-shirt categories,T-Shirt_Categories
+Do you have Plain T-Shirts?,T-Shirt_Categories
+Do you have Printed T-Shirts?,T-Shirt_Categories
+Do you have Half-sleeves T-Shirts?,T-Shirt_Categories
+Do you have Full-sleeves T-Shirts?,T-Shirt_Categories
+Do you provide Plain T-Shirts?,T-Shirt_Categories
+Do you provide Printed T-Shirts?,T-Shirt_Categories
+Do you provide Half-sleeves T-Shirts?,T-Shirt_Categories
+Do you provide Full-sleeves T-Shirts?,T-Shirt_Categories
+Do you provide V-neck T-Shirts?,T-Shirt_Categories
+Do you have V-neck T-Shirts?,T-Shirt_Categories
+ ,T-Shirt_sizes
+ ,T-Shirt_sizes
+ ,T-Shirt_Colours
+ ,T-Shirt_Colours
+What is the price range for the t-shirts?,T-Shirt_Price
+Do you have a very high price range of t-shirts?,T-Shirt_Price
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+ ,
+sleep wear for women,women_sleepwear
+night dresses for women,women_sleepwear
+I want night dress for women,women_sleepwear
+show me night dress for ladies,women_sleepwear
+ladies night dress,women_sleepwear
+night dress for girls,women_sleepwear
+women night dresses,women_sleepwear
+sleep wear for girls,women_sleepwear
+I want to see sleep wear for women,women_sleepwear
+ladies night wear,women_sleepwear
+women night wear,women_sleepwear
+what material of night dresses are available for women,women_sleepwear
+fabrics available for girls night dresses,women_sleepwear
+size for women night dress,women_sleepwearsize
+size for women sleep wear,women_sleepwearsize
+Show me sizes for women night wear,women_sleepwearsize
+I want to see different sizes of women's sleep wear,women_sleepwearsize
+What all sizes do you offer for ladies night dresses?,women_sleepwearsize
+girls night dress size,women_sleepwearsize
+size of girls night wear,women_sleepwearsize
+size of ladies night wear,women_sleepwearsize
+Show me the price range for sleep wear of girls,women_sleepwearprice
+price range for women sleep wear,women_sleepwearprice
+range for ladies sleep wear,women_sleepwearprice
+show me the rates of ladies sleep wear,women_sleepwearprice
+rate of women sleep wear,women_sleepwearprice
+prices of ladies night dress,women_sleepwearprice
+I want to check prices of night dresses for women,women_sleepwearprice
+night dress price for women,women_sleepwearprice
+ladies night dress rates,women_sleepwearprice
+Show me the types of sleep wear of girls,women_sleepweartypes
+types of women sleep wear,women_sleepweartypes
+types of ladies sleep wear,women_sleepweartypes
+show me the different types of ladies sleep wear,women_sleepweartypes
+types of women sleep wear,women_sleepweartypes
+different types of ladies night dress,women_sleepweartypes
+I want to check different types of night dresses for women,women_sleepweartypes
+night dress varieties for women,women_sleepweartypes
+ladies night dress varieties,women_sleepweartypes
+I want to see all varieties of women sleep wear that you provide,women_sleepweartypes
+Show me all the varieties of sleep wear that you provide,women_sleepweartypes
+lounge wear for women,women_loungewear
+pajamas for women,women_loungewear
+I want home wear for women,women_loungewear
+show me pajama suits for ladies,women_loungewear
+ladies pajama suits,women_loungewear
+lounge wear and home wear,women_loungewear
+lounge wear for girls,women_loungewear
+women pajama dresses,women_loungewear
+lounge wear for girls,women_loungewear
+I want to see home wear for women,women_loungewear
+size for ladies lounge wear,women_loungewearsize
+Show me size range for ladies lounge wear,women_loungewearsize
+size for women lounge dress,women_loungewearsize
+size for women home wear,women_loungewearsize
+Show me sizes for women home wear,women_loungewearsize
+I want to see different sizes of women's lounge wear,women_loungewearsize
+What all sizes do you offer for ladies home dresses?,women_loungewearsize
+girls lounge dress size,women_loungewearsize
+size of girls home wear,women_loungewearsize
+size of ladies lounge wear,women_loungewearsize
+Show me the price range for lounge wear of girls,women_loungewearprice
+price range for women lounge wear,women_loungewearprice
+range for ladies lounge wear,women_loungewearprice
+price range for women lounge wear,women_loungewearprice
+range for ladies home wear,women_loungewearprice
+show me the rates of ladies lounge wear,women_loungewearprice
+rate of women home wear,women_loungewearprice
+prices of ladies home dress,women_loungewearprice
+I want to check prices of lounge dresses for women,women_loungewearprice
+pajama dress price for women,women_loungewearprice
+ladies home dress rates,women_loungewearprice
+Show me pajama dress rates for women,women_loungewearprice
+sports wear for women,women_sportswear
+active wear for women,women_sportswear
+I want sports dress for women,women_sportswear
+show me sports leggings for ladies,women_sportswear
+ladies athletic wear,women_sportswear
+active wear and sports wear,women_sportswear
+athletic wear for girls,women_sportswear
+women gym wear,women_sportswear
+sports wear for girls,women_sportswear
+I want to see gym wear for women,women_sportswear
+size for women exercise wear,women_sportswearsize
+size for ladies active wear,women_sportswearsize
+Show me size range for ladies gym and sports wear,women_sportswearsize
+size for women sports dress,women_sportswearsize
+size for women exercise wear,women_sportswearsize
+Show me sizes for women sports wear,women_sportswearsize
+I want to see different sizes of women's gym wear,women_sportswearsize
+What all sizes do you offer for ladies active wear dresses?,women_sportswearsize
+girls gym dress size,women_sportswearsize
+size of girls sports wear,women_sportswearsize
+size of ladies active wear,women_sportswearsize
+I want to checkout all sizes of exercise wear for women,women_sportswearsize
+Show me the price range for sports wear of girls,women_sportswearprice
+price range for women exercise dress,women_sportswearprice
+range for ladies athletic wear,women_sportswearprice
+range for ladies exercise wear,women_sportswearprice
+show me the rates of ladies gym wear,women_sportswearprice
+rate of women exercise dress,women_sportswearprice
+prices of ladies active wear,women_sportswearprice
+I want to check prices of sports dresses for women,women_sportswearprice
+gym wear price for women,women_sportswearprice
+ladies active wear dress rates,women_sportswearprice
+Show me sports dress rates for women,women_sportswearprice
+What are the price ranges of women's sports and active wear?,women_sportswearprice
+Show me handbags for women,women_purses
+women handbags,women_purses
+ladies clutch,women_purses
+purse for ladies,women_purses
+Show me purses for women,women_purses
+fancy purses for girls,women_purses
+latest purses,women_purses
+Do you have handbags for women?,women_purses
+Show me all categories of ladies purses,women_purses
+handbags for girls,women_purses
+clutches for women,women_purses
+Classic purses and handbags,women_purses
+girls handbags,women_purses
+sling bags for women,women_purses
+sling bags for girls,women_purses
+show me sling bag prices,women_pursesprice
+price ranges for women's purses,women_pursesprice
+price for women's handbags,women_pursesprice
+rates for ladies purses,women_pursesprice
+ladies purse prices,women_pursesprice
+ladies handbags rates,women_pursesprice
+price of sling bags,women_pursesprice
+Show me price ranges of handbags,women_pursesprice
+show me rings for women,women_rings
+girls rings,women_rings
+rings for ladies,women_rings
+Do you provide rings for women?,women_rings
+show rings for girls,women_rings
+show me bracelets for women,women_bracelets
+girls bracelets,women_bracelets
+bracelets for ladies,women_bracelets
+do you provide bracelets for women,women_bracelets
+show bracelets for girls,women_bracelets
+ladies bracelets,women_bracelets
+What all does Women Section include?,Women Section 
+ I want to see different Categories of women section?,Women Section 
+What is there in women section?,Women Section 
+Women section categories?,Women Section 
+Show me varieties available in women section?,Women Section 
+What are the different varieties available in Ethnic Wear?,Ethnic_Wear 
+What all do you have?,Ethnic_Wear 
+What all does ethnic wear include?,Ethnic_Wear 
+Do you have Sarees?,Ethnic_Wear 
+Is Saree Available?,Ethnic_Wear 
+Do you have Kurtas?,Ethnic_Wear 
+Is Kurta Available?,Ethnic_Wear 
+Do you have Salwar Suits?,Ethnic_Wear 
+Is Salwar Suit Available?,Ethnic_Wear 
+Do you have Dress Material?,Ethnic_Wear 
+Is Dress Material Available?,Ethnic_Wear 
+Do you have Bottom wear?,Ethnic_Wear 
+Is Bottom Available?,Ethnic_Wear 
+Do you have Dupattas?,Ethnic_Wear 
+Is Dupattas Available?,Ethnic_Wear 
+Do you have Bottoms?,Ethnic_Wear 
+Do you have Blouses?,Ethnic_Wear 
+What are the different varieties available in Western Wear?,Western_Wear 
+What do you have in Western Wear?,Western_Wear 
+"Show all Western Wear variety?,Do you have Tops?",Western_Wear 
+Are tops available?,Western_Wear 
+Do you have T-shirts?,Western_Wear 
+Are T-shirts available?,Western_Wear 
+Do you have Dresses?,Western_Wear 
+Are Dresses available?,Western_Wear 
+Do you have Jumpsuits?,Western_Wear 
+Are Jumpsuits available?,Western_Wear 
+Do you have Skirts?,Western_Wear 
+Are Skirts available?,Western_Wear 
+Do you have Jeans & Jeggings?,Western_Wear 
+Are Jeans & Jeggings available?,Western_Wear 
+Do you have Winterwear?,Western_Wear 
+Are winterwear available?,Western_Wear 
+Do you have Trousers?,Western_Wear 
+Are Trousers available?,Western_Wear 
+Do you have Leggings?,Western_Wear 
+Are Leggings available?,Western_Wear 
+Do you have Suits & Blazers?,Western_Wear 
+Are Suits & Blazers available?,Western_Wear 
+What are the different varieties available in Sleep & Lounge Wear?,Sleep & Lounge Wear 
+What all do you have in Sleep & Lounge Wear?,Sleep & Lounge Wear 
+Show all Sleep & Lounge WearDo you have Lounge shorts,Sleep & Lounge Wear 
+Are Lounge shorts available?Do you have Pyjama Sets,Sleep & Lounge Wear 
+Are Pyjama availableDo you have nightwear setsAre nightwear sets available,Sleep & Lounge Wear 
+What are the different varieties available in Sportswear?,Sportswear 
+What all do you have in Sportswear?,Sportswear 
+Show all sportswear?Do you have Sweatshirts & Hoodies,Sportswear 
+Are Sweatshirts & Hoodies available?Do you have Trousers,Sportswear 
+Are Trousers availableDo you have LeggingsAre Leggings availableDo you have ShortsAre Shorts availableDo you have Track JacketsAre Track Jackets availableDo you have SweatersAre Sweaters availableDo you have VestsAre Vests available,Sportswear 
+What are the different varieties available in Accessories?,Accessories 
+What all do you have in Accessories?,Accessories 
+Show all Accessories?Do you have Scarves,Accessories 
+Are Scarves available?Do you have Shawls,Accessories 
+Are Shawls availableDo you have Caps & HatsAre Caps & hats availableDo you have BeltsAre Belts available,Accessories 
+What are the different brands of Sarees available?,Sarees_brand 
+Show all Sarees brandWhat do you have in SareesShow brands of SareesSarees brands,Sarees_brand 
+What are the price rangess of Sarees?,Saree_price 
+Prices of SareesSarees price,Saree_price 
+What are the different colours available in Sarees?,Saree_colour 
+Sarres coloursWhat colours do you haveShow all colours in SareesColous Sarees,Saree_colour 
+What are the different discounts available in Sarees?,Saree_discount 
+Do you have any discounts in SareesSarees discountsRanges of discount in Sarees,Saree_discount 
+What are the different colours available in Sarees?,Saree_colour 
+Sarres coloursWhat colours do you haveShow all colours in SareesColous Sarees,Saree_colour 
+What are the different sizes available in Kurtas?,Kurtas_size
+Show all sizes available in Kurtaskurtas sizesSizes in KurtasDifferent sizes in Kurtas,Kurtas_size
+What are the different colours available in Kurtas?,Kurtas_colour 
+Kurtas coloursWhat colours do you have in KurtasShow all colours in KurtasColous Kurtas,Kurtas_colour 
+What are the different styles available in kurtas ?,Kurtas_style
+Show all styles in KurtasKurtas stylesStyles in kurtasDo you have Neck StyleDo you have V-NeckDo you have Boat Neck,Kurtas_style
+What are the different sleeve types available in kurtas ?,Kurtas_sleeve types
+Show all sleeve types alailable in KurtasDo you have longsleeve kurtasDo you have shortsleeve kurtasDo you have sleveless kurtas,Kurtas_sleeve types
+What are the different lengths available in kurtas ?,Kurtas_length
+Kurtas lengh availableShow all Kurta lengthDo you have Calf longDo you have Knee lengthDo you have ankle length,Kurtas_length
+What are the different material types available in kurtas ?,Kurtas_material
+Kurta material availableShow all Kurtas material,Kurtas_material
+What are the price rangess of Kurta?,Kurta_price 
+Show all Kurtas price rangeKurta prive,Kurta_price 
+What are the different discounts available in kurta?,Kurta_discount 
+Are there discount in KurtasKurtas discount,Kurta_discount 
+What are the different brands of Kurtas available?,Kurta_brand 
+Show all Kurtas brandWhat all brands do you have in kurtas,Kurta_brand 
+What are the different sizes available in Dress  Material?,Dress  Material_size
+Sizes in Dress MaterialShow all sizes in Dress Material,Dress  Material_size
+What are the different colours available in Salwar suit?,Salwar suit_colour 
+Salwar suit coloursWhat colours do you have in Salwar suitShow all colours in Salwar suitColous Salwar suit,Salwar suit_colour 
+What are the different styles available in Dress  Material ?,Dress  Material_style
+Show all styles in Dress MaterialDress Material stylesStyles in Dress materiaMDo you have Neck StyleDo you have V-NeckDo you have Boat Neck,Dress  Material_style
+What are the different sleeve types available in Dress  Material ?,Dress  Material_sleeve types
+Show all sleeve types alailable in Dress MaterialDo you have longsleeve Do you have shortsleeveDo you have sleveless,Dress  Material_sleeve types
+What are the different lengths available in Dress  Material ?,Dress  Material_length
+What are the different material types available in Dress  Material ?,Dress  Material_material
+Show all Dress Material Dress Material in Dresses,Dress  Material_material
+What are the price rangess of Dress Material?,    Dress Material_price 
+Show all price ranges of dress MaterialDress Material Prices,    Dress Material_price 
+What are the different discounts available in Dress Material,Dress Material_discount 
+What are discounts available in Dress MaterialDress Material discounts,Dress Material_discount 
+What are the different brands of Salwar suit available?,Salwar suit_brand 
+What are the different sizes available in Chudidars?,Chudidars_size
+Sizes in ChudidarsShow all sizes in Chudidars,Chudidars_size
+What are the different colours available in Chudidars?,Chididars_colour 
+Chdidars coloursWhat colours do you have in ChudidarsShow all colours in ChudidarsColous Chudidars,Chididars_colour 
+What are the different styles available in Chudidars ?,Chudidars_style
+Show all styles in ChudidarsChudidars stylesStyles in ChudidarsDo you have Neck StyleDo you have V-NeckDo you have Boat Neck,Chudidars_style
+What are the different sleeve types available in Chudidars ?,Chudidars_sleeve types
+Show all sleeve types alailable in Dress ChudidarsDo you have longsleeve Do you have shortsleeveDo you have sleveless,Chudidars_sleeve types
+What are the different lengths available in Chudidars ?,Chudidars_length
+Show all Chudidar lengthsChudiadars lengths,Chudidars_length
+What are the different material types available in Chudidars ?,Chudidars_material
+What are the price rangess of Chudidars?,Chudidars suit_price 
+What are the different discounts available in Chudidars?,Chudidars_discount 
+What are the different brands of Chudidars available?,Chudidars_brand 
+What are the different sizes available in Dupattas?,Dupattas_size
+What are the different colours available in Dupattas?,Dupattas_colour 
+What are the different styles available in Dupattas ?,Dupattas_style
+What are the different sleeve types available in Dupattas ?,Dupattas_sleeve types
+What are the different lengths available in Dupattas ?,Dupattas_length
+What are the different material types available in Dupattas ?,Dupattas_material
+What are the price rangess of Dupattas?,Dupattas suit_price 
+What are the different discounts available in Dupattas?,Dupattas_discount 
+What are the different brands of Dupattas available?,Dupattas_brand 
+What are the different sizes available in Bottom wear?,Bottom wear_size
+What are the different colours available in Bottom wear?,Bottom wear_colour 
+What are the different styles available in Bottom wear ?,Bottom wear_style
+What are the different lengths available in Bottom wear ?,Bottom wear_length
+What are the different material types available in Bottom wear ?,Bottom wear_material
+What are the price rangess of Bottom wear?,Bottom wear suit_price 
+What are the different discounts available in Bottom wear?,Bottom wear_discount 
+What are the different brands of Bottom wear available?,Bottom wear_brand 
+What are the different sizes available in Blouses?,Blouses_size
+What are the different colours available in Blouses?,Blouses_colour 
+What are the different stitch type available in Blouses ?,Blouses_stitchtype
+What are the different material types available in Blouses ?,Blouses_material
+What are the price rangess of Blouses?,Blouses suit_price 
+What are the different discounts available in Blouses?,Blouses_discount 
+What are the different brands of Blouses available?,Blouses_brand 
+What are the different sizes available in Lehega Cholis?,Lehega Cholis_size
+What are the different colours available in Lehega Cholis?,Lehega Cholis_colour 
+What are the different stitch type available in Lehega Cholis ?,Lehega Cholis_stitchtype
+What are the different material types available in Lehega Cholis ?,Lehega Cholis_material
+What are the price rangess of Lehega Cholis?,Lehega Cholis suit_price 
+What are the different discounts available in Lehega Cholis?,Lehega Cholis_discount 
+What are the different brands of Lehega Cholis available?,Lehega Cholis_brand 
+What are the different sizes available in Gowns?,Gowns_size
+What are the different colours available in Gowns?,Gowns_colour 
+What are the different stitch type available in Gowns ?,Gowns_stitchtype
+What are the different material types available in Gowns ?,Gowns_material
+What are the price rangess of Gowns?,Gowns suit_price 
+What are the different discounts available in Gowns?,Gowns_discount 
+What are the different brands of Gowns available?,Gowns_brand 
+What are the different sizes available in Tops?,Tops_size
+What are the different colours available in Tops?,Tops_colour 
+What are the different sleeve types available in Tops ?,Tops_sleeve types
+What are the different lengths available in Tops ?,Tops_length
+What are the different material types available in Tops ?,Tops_material
+What are the price rangess of Tops?,Tops_price 
+What are the different discounts available in Tops?,Tops_discount 
+What are the different brands of Tops available?,Tops_brand 
+What are the different sizes available in T-shirts?,T-shirts_size
+What are the different colours available in T-shirts?,T-shirts_colour 
+What are the different sleeve types available in T-shirts ?,T-shirts_sleeve types
+What are the different lengths available in T-shirts ?,T-shirts_length
+What are the different material types available in T-shirts ?,T-shirts_material
+What are the price rangess of T-shirts?,T-shirts_price 
+What are the different discounts available in T-shirts?,T-shirts_discount 
+What are the different brands of T-shirts available?,T-shirts_brand 
+What are the different sizes available in Shirts?,Shirts_size
+What are the different colours available in Shirts?,Shirts_colour 
+What are the different sleeve types available in Shirts ?,Shirts_sleeve types
+What are the different lengths available in Shirts ?,Shirts_length
+What are the different material types available in Shirts ?,Shirts_material
+What are the price rangess of Shirts?,Shirts_price 
+What are the different discounts available in Shirts?,Shirts_discount 
+What are the different brands of Shirts available?,Shirts_brand 
+What are the different sizes available in Dresses?,Dresses_size
+What are the different colours available in Dresses?,Dresses_colour 
+What are the different sleeve types available in Dresses ?,Dresses_sleeve types
+What are the different lengths available in Dresses ?,Dresses_length
+What are the different material types available in Dresses ?,Dresses_material
+What are the price rangess of Dresses?,Dresses_price 
+What are the different discounts available in Dresses?,Dresses_discount 
+What are the different brands of Dresses available?,Dresses_brand 
+What are the different sizes available in Jumpsuits?,Jumpsuits_size
+What are the different colours available in Jumpsuits?,Jumpsuits_colour 
+What are the different lengths available in Jumpsuits ?,Jumpsuits_length
+What are the different material types available in Jumpsuits ?,Jumpsuits_material
+What are the price rangess of Jumpsuits?,Jumpsuits_price 
+What are the different discounts available in Jumpsuits?,Jumpsuits_discount 
+What are the different brands of Jumpsuits available?,Jumpsuits_brand 
+What are the different sizes available in Skirts?,Skirts_size
+What are the different colours available in Skirts?,Skirts_colour 
+What are the different lengths available in Skirts ?,Skirts_length
+What are the different material types available in Skirts ?,Skirts_material
+What are the price rangess of Skirts?,Skirts_price 
+What are the different discounts available in Skirts?,Skirts_discount 
+What are the different brands of Skirts available?,Skirts_brand 
+What are the different sizes available in Shorts?,Shorts_size
+What are the different colours available in Shorts?,Shorts_colour 
+What are the different lengths available in Shorts ?,Shorts_length
+What are the different material types available in Shorts ?,Shorts_material
+What are the price rangess of Shorts?,Shorts_price 
+What are the different discounts available in Shorts?,Shorts_discount 
+What are the different brands of Shorts available?,Shorts_brand 
+What are the different sizes available in Jeans?,Jeans_size
+What are the different colours available in Jeans?,Jeans_colour 
+What are the different lengths available in Jeans ?,Jeans_length
+What are the different material types available in Jeans ?,Jeans_material
+What are the price rangess of Jeans?,Jeans_price 
+What are the different discounts available in Jeans?,Jeans_discount 
+What are the different brands of Jeans available?,Jeans_brand 
+What are the different  Waist sizes available in Jeans?,Jeans_Waist size
+What are the different fit types available in Jeans?,Jeans_fit
+What are the different styles available in Jeans?,Jeans_style
+What are the different sizes available in Jeggings?,Jeggings_size
+What are the different colours available in Jeggings?,Jeggings_colour 
+What are the different lengths available in Trousers ?,Trousers_length
+What are the different material types available in Trousers ?,Trousers_material
+What are the price rangess of Trousers?,Trousers_price 
+What are the different discounts available in Trousers?,Trousers_discount 
+What are the different brands of Trousers available?,Trousers_brand 
+What are the different  Waist sizes available in Trousers?,Trousers_Waist size
+What are the different fit types available in Trousers?,Trousers_fit
+What are the different styles available in Trousers?,Trousers_style
+What are the different sizes available in Trousers?,Trousers_size
+What are the different colours available in Trousers?,Trousers_colour 
+What are the different lengths available in Trousers ?,Trousers_length
+What are the different material types available in Trousers ?,Trousers_material
+What are the price rangess of Trousers?,Trousers_price 
+What are the different discounts available in Trousers?,Trousers_discount 
+What are the different brands of Trousers available?,Trousers_brand 
+What are the different  Waist sizes available in Trousers?,Trousers_Waist size
+What are the different fit types available in Trousers?,Trousers_fit
+What are the different styles available in Trousers?,Trousers_style
+What are the different lengths available in Leggings ?,Leggings_length
+What are the different material types available in Leggings ?,Leggings_material
+What are the price rangess of Leggings?,Leggings_price 
+What are the different discounts available in Leggings?,Leggings_discount 
+What are the different brands of Leggings available?,Leggings_brand 
+What are the different  Waist sizes available in Leggings?,Leggings_Waist size
+What are the different fit types available in Leggings?,Leggings_fit
+What are the different styles available in Leggings?,Leggings_style
+What are the different sizes available in Leggings?,Leggings_size
+What are the different colours available in Leggings?,Leggings_colour 
+What are the different lengths available in Leggings ?,Leggings_length
+What are the different material types available in Leggings ?,Leggings_material
+What are the price rangess of Leggings?,Leggings_price 
+What are the different discounts available in Leggings?,Leggings_discount 
+What are the different brands of Leggings available?,Leggings_brand 
+What are the different  Waist sizes available in Leggings?,Leggings_Waist size
+What are the different fit types available in Leggings?,Leggings_fit
+What are the different styles available in Leggings?,Leggings_style
+What are the different material types available in  Shrugs ?,Shrugs_material
+What are the price rangess of Shrugs?,Shrugs_price 
+What are the different discounts available in Shrugs?,Shrugs_discount 
+What are the different brands of Shrugs available?,Shrugs_brand 
+What are the different fit types available in Shrugs?,Shrugs_fit
+What are the different sizes available in Shrugs?,Shrugs_size
+What are the different colours available in Shrugs?,Shrugs_colour 
+What are the different material types available in Shrugs ?,Shrugs_material
+What are the price rangess of Shrugs?,Shrugs_price 
+What are the different discounts available in Shrugs?,Shrugs_discount 
+What are the different brands of Shrugs available?,Shrugs_brand 
+What are the different fit types available in Shrugs?,Shrugs_fit
+What are the different material types available in Ponchos ?,Ponchos_material
+What are the price rangess of Ponchos?,Ponchos_price 
+What are the different discounts available in Ponchos?,Ponchos_discount 
+What are the different brands of Ponchos available?,Ponchos_brand 
+What are the different fit types available in Ponchos?,Ponchos_fit
+What are the different sizes available in Ponchos?,Ponchos_size
+What are the different colours available in Ponchos?,Ponchos_colour 
+What are the different material types available in Ponchos ?,Ponchos_material
+What are the price rangess of Ponchos?,Ponchos_price 
+What are the different discounts available in Ponchos?,Ponchos_discount 
+What are the different brands of Ponchos available?,Ponchos_brand 
+What are the different material types available in  Suits ?,Suits_material
+What are the price rangess of Suits?,Suits_price 
+What are the different discounts available in Suits?,Suits_discount 
+What are the different brands of Suits available?,Suits_brand 
+What are the different fit types available in Suits?,Suits_fit
+What are the different sizes available in Suits?,Suits_size
+What are the different colours available in Suits?,Suits_colour 
+What are the different material types available in Suits ?,Suits_material
+What are the price rangess of Suits?,Suits_price 
+What are the different discounts available in Suits?,Suits_discount 
+What are the different brands of Suits available?,Suits_brand 
